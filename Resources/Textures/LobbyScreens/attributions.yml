@@ -33,6 +33,11 @@
   copyright: "data_redacted on discord"
   source: "https://github.com/space-wizards/space-station-14"
 
+- files: ["clownspider.png", "new-year-bar.png", "cai-mia.png"]
+  license: "CC-BY-NC-SA-3.0"
+  copyright: "ko4erga(266899933632659456) on discord"
+  source: "https://github.com/space-syndicate/space-station-14"
+
 - files: ["behonker.webp"]
   license: "CC-BY-NC-SA-3.0"
   copyright: "InCrah on twitter / @in_crah"

@@ -70,9 +70,9 @@
   id: TerminalStation
   path: /Textures/LobbyScreens/terminalstation.webp
 
-- type: animatedLobbyScreen
-  id: JustAWeekAway
-  path: /Textures/LobbyScreens/justaweekaway.webp
+# - type: animatedLobbyScreen
+#   id: JustAWeekAway
+#   path: /Textures/LobbyScreens/justaweekaway.webp
 
 - type: animatedLobbyScreen
   id: JaniShootout
@@ -81,3 +81,7 @@
 - type: animatedLobbyScreen
   id: ReclaimerNuke
   path: /Textures/LobbyScreens/reclaimer-nuke.webp
+
+- type: animatedLobbyScreen
+  id: ADTCaiMia
+  path: /Textures/LobbyScreens/cai-mia.webp
